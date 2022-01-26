@@ -2,12 +2,17 @@
     font-family: ubuntu;
 }
 
-.odd {
+.odd, .cooler {
     background-color: pink;
     font-family: "Verdana", "DejaVu Sans", sans-serif ;
+}
+
+.cooler {
+    font-size: 24px;
 }
 
 #one {
     color: blue;
     font-size: 36px;
 }
+
