@@ -12,3 +12,8 @@
     font-size: 36px;
 }
 
+#another {
+    background-color: rgba(116, 212, 116, 0.788);
+    font-size: 24px;
+    font-weight: bold;
+}
