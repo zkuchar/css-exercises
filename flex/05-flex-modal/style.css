@@ -88,3 +88,8 @@ button.cancel {
   font-size: larger;
   font-weight: bold;
 }
+.choices {
+ display: flex;
+ justify-content: flex-start;
+ gap: 5px; 
+}
