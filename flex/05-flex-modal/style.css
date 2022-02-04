@@ -75,3 +75,8 @@ button.cancel {
   flex-direction: column;
   justify-content: flex-start;
 }
+
+.topline {
+  display: flex;
+  justify-content: space-between;
+}
