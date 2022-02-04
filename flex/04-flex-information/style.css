@@ -2,6 +2,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 img {
@@ -19,7 +20,7 @@ img {
 }
 
 .shelf {
-  
+  display: flex;
 }
 /* do not edit this footer */
 .footer {
