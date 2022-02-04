@@ -15,10 +15,15 @@ img {
   font-weight: 900;
 }
 
+.text {
+  text-align: center;
+}
+
 .item {
   display: flex;
   flex-direction: column;
   gap: 1em;
+  align-items: center;
 }
 
 .shelf {
