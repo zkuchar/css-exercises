@@ -68,3 +68,9 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
