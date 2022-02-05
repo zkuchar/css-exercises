@@ -10,6 +10,20 @@ body {
   align-items: center;
 }
 
+.header {
+  display: flex;
+  width: 100vh;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.left-links, .right-links {
+  display: flex;
+  gap: 2em;
+}
+
+
+
 img {
   width: 600px;
 }
@@ -36,4 +50,9 @@ li {
 a {
   text-decoration: none;
   color: rgb(71, 71, 71);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
 }
