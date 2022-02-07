@@ -23,6 +23,10 @@ body {
   flex-direction: row;
 }
 
+.deck {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
