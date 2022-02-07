@@ -18,6 +18,11 @@ body {
   padding: 16px;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
 .footer {
   height: 72px;
   background: #eee;
